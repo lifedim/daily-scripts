@@ -1,4 +1,5 @@
-first update
-second
+Daily scripts written by Jason Li
 
-this is it.
+#1 pydict
+It's a command line gui for stardict. written since 03/19/2010
+
